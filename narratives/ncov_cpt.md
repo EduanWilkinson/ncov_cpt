@@ -1,9 +1,9 @@
 ---
 title: "Mol Epi of SARS-CoV-2 in Cape Town, South Africa"
-authors: "Eduan Wilkinson, Houriiyah Tegally, Tulio de Oliveira, Wolfgang Preiser, Gert Van Zyl & Susan Engelbrecht."
+authors: "Susan Engelbrecht, Wolfgang Preiser, Gert Van Zyl, Kayla Delaney, Bronwyn Kleinhans, Houriiyah Tegally, Tulio de Oliveira & Eduan Wilkinson."
 authorLinks: "https://www.krisp.org.za/ngs-sa/"
 affiliations: "Division of Medical Virology, Department of Pathology, Faculty of Health and Medical Science, Stellenbosch University, Tygerberg, South Africa."
-date: "July, 3 2020"
+date: "July, 8 2020"
 dataset: "https://nextstrain.org/community/EduanWilkinson/ncov_cpt"
 abstract: "The Network for Genomics Surveillance in South Africa (NGS-SA) presents a molecular epidemiological study of the first 46 SARS-CoV-2 whole genomes from Cape Town, South Africa, during the first month of the epidemic."
 ---
@@ -50,22 +50,42 @@ The phylogenetic reconstruction suggest at least nine introductions of SARS-CoV-
 Based on the molecular clock analyses we can confirm that all the introductions into Cape Town occurred between the last week of February and in the first two weeks of March 2020. <br><br>February and March is high tourist season in Cape Town with hundereds of thousands of arrivals in the two months. Following the rising number of confirmed diagnosed cases in the Republic, the national government quickly enforced a lockdown. This basically brought international travel to and from South Africa to a halt. We therefore, don't expect any subsequent introductions into the Cape Metro area after 15 March 2020.<br><br>As travel restrictions are eased we will keep a close eye out for the emergence of new variants which may be the result of new introductions. 
 
 # [Introduction of Clade-19A](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?d=tree,map&f_author=Susan%20Engelbrecht%20et%20al&p=full)
-Three isolates (Tygerberg 4, 6 & 31) contained mutations more similar to the Asian variants of SARS-CoV-2, clustering in the 19A clade of SARS-CoV-2.<br><br>The genetic sequence of Tygerberg 4 does not differ to the Wuhan-Hu-1 reference strain. The Wuhan-Hu-1 reference was the first genome sequence of SARS-CoV-2 to be published in early January 2020 and is the genome against which all sequences are measured. Contact tracing points to a recent travel history to the United Kingdom for the individual from whom this virus were genotyped. This suggest transmission from China to the UK and onwards to Cape Town.<br><br> With regards to Tygerberg 6 and 31 these two genotypes share two common mutations (G26144T and C14805T) relative to the Wuhan-Hu-1 reference stain. For Tygerberg 6, the molecular clock and ancestral state reconstruction suggest spread from China to the United Kingdom and onwards to Cape Town. Along the chain of transmission additional mutation events occurred leading to the genetic profile we observe in sample 6.<br><br>With regards to Tygerberg 31, the most likely route of transmission for this genetic variant goes from China to Australia, the United States (defined by the T17247C mutation) and onwards to Cape Town. 
+Three isolates (Tygerberg 4, 6 & 31) contained mutations more similar to the Asian variants of SARS-CoV-2, clustering in the 19A clade.
+<br><br>
+The genetic sequence of Tygerberg 4 does not differ to the Wuhan-Hu-1 reference strain. The Wuhan-Hu-1 reference was the first genome sequence of SARS-CoV-2 to be published in early January 2020 and is the genome against which all sequences are measured. Contact tracing points to a recent travel history to the United Kingdom for the individual from whom this virus were genotyped. This suggest transmission from China to the UK and onwards to Cape Town.
+<br><br>
+With regards to Tygerberg 6 and 31 these two genotypes share two common mutations (G26144T and C14805T) relative to the Wuhan-Hu-1 reference stain. For Tygerberg 6, the molecular clock and ancestral state reconstruction suggest spread from China to the United Kingdom and onwards to Cape Town. Along the chain of transmission additional mutation events occurred leading to the genetic profile we observe in Tygerberg 6.
+<br><br>
+With regards to Tygerberg 31, the most likely route of transmission for this genetic variant goes from China to Australia, the United States (defined by the T17247C mutation) and onwards to Cape Town. 
 
 # [Introduction of Clade-20A](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?d=tree,map&f_author=Susan%20Engelbrecht%20et%20al&p=full)
-The remainder of the Cape Town sequences were classified into clades 20A and 20B of SARS-CoV-2. The 20A-20C clades of SARS-CoV-2 is mainly associated with infections outside of Asia.<br><br>The 20A clade contains 28 genotypes from Cape Town. The result of two unique introductions. The reconstruction suggest transmission of a Spanish variant (A20268G) to the UK and onwards to Cape Town giving rise to the genetic profile of Tygerberg 2 & 3. Contact tracing confirms these two individuals to be contacts of a traveler who recently returned from the United Kingdom.
+The remainder of the Cape Town sequences were classified into clades 20A and 20B of SARS-CoV-2. The 20A-20C clades of SARS-CoV-2 is mainly associated with infections outside of Europe.
+<br><br>
+The 20A clade contained 28 genotypes from Cape Town, the result of two unique introductions. The reconstruction suggest transmission of a Spanish variant (A20268G) to the UK and onwards to Cape Town giving rise to the genetic profile of Tygerberg 2 & 3. Contact tracing confirms these two individuals to be contacts of a traveler who recently returned from the United Kingdom.
 
 # [Clustered  Outbreak of 20A in Cape Town](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?label=clade:A24862G&p=grid&transmissions=hide)
-The second 20A introduction led to a large clustered outbreak of SARS-CoV-2 in a busy supermarket in Cape Town. Contact tracing suggest Tygerberg 5 to be infected with a Dutch variant of SARS-CoV-2 while in the Netherlands.<br><br>The Dutch variant is defined by the common mutation A24862G relative to the Wuhan reference strain. From the Netherlands, this variant spread to several countries (e.g. New Zealand, Colombia & Austria). This cluster also contained another sequences from South Africa (R07601) sampled in the northern province of Limpopo.
+The second 20A introduction led to a large clustered outbreak of SARS-CoV-2 in a busy supermarket in Cape Town. Contact tracing suggest Tygerberg 5 to be infected with a Dutch variant of SARS-CoV-2 while in the Netherlands.
+<br><br>
+The Dutch variant is defined by the common mutation A24862G relative to the Wuhan reference strain. From the Netherlands, this variant spread to several countries (e.g. New Zealand, Colombia & Austria). This cluster also contained another sequences from South Africa (R07601) sampled in the northern province of Limpopo.
+<br><br>
+This suggest multiple introductions of the Dutch variant into the Republic. South Africa and the Cape share deep cultural and historic connections with the Netherlands with frequent travel between the two countries. 
 
 # [Mutation A5209G](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=gt-nuc_5209&l=radial&p=grid&transmissions=hide)
-Following the introduction of the Dutch variant into Cape Town, the virus further diversified with the accumulation of the mutation A5209G before causing a large out in the supermarket.<br><br>This variant is only observed in the supermarket outbreak in Cape Town and no where else on earth. Keeping tack of mutations such as this one, will allow us to understand how the virus spread between different locations within the city, the surrounding country side and throughout the Republic. 
+Following the introduction of the Dutch variant into Cape Town, the virus further diversified with the accumulation of the mutation A5209G before causing a large out in the supermarket.
+<br><br>
+This variant is only observed in the supermarket outbreak in Cape Town and nowhere else on earth. Keeping tack of mutations such as this one, will allow us to understand how the virus spread between different locations within the city, the surrounding country side and throughout the Republic, which is the primary objective of[NGS-SA)](https://www.krisp.org.za/ngs-sa/).
 
 # [Introduction of 20B](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?d=tree,map&f_author=Susan%20Engelbrecht%20et%20al&p=full)
-Fifteen of our Cape Town sequences clustered in clade 20B. We believe these fifteen sequences to be the result of at least 4 unique introductions. Sample 29 and 43 appear to be unique introductions from the UK and the Netherlands, respectively.<br><br>Tygerberg 30 and 32 appear to be due to a unique introduction of a UK variant (defined by the common mutation G10097A).<br><br>The remaining eleven Tygerberg sequences cluster intermittently in a clade rooted in Italy. The mutation profile of these eleven sequences are so close to one another that its difficult to distinguish whether they are the result of a single introduction or due to multiple introductions into Cape Town. Given their close genetic similarity we chose to define it as a single introduction.   
+Fifteen of our Cape Town sequences clustered in clade 20B. We believe these fifteen sequences to be the result of at least 4 unique introductions. Sample 29 and 43 appear to be unique introductions from the UK and the Netherlands, respectively.
+<br><br>
+Tygerberg 30 and 32 appear to be due to a unique introduction of a UK variant (defined by the common mutation G10097A).
+<br><br>
+The remaining eleven Tygerberg sequences cluster intermittently in a clade rooted in Italy. The mutation profile of these eleven sequences are so close to one another that its difficult to distinguish whether they are the result of a single introduction or due to multiple introductions into Cape Town. Given their close genetic similarity we chose to define it as a single introduction.   
 
 # [Evolutionary rate of SARS-CoV-2](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?d=tree&f_author=Susan%20Engelbrecht%20et%20al&l=clock&p=full)
-Based on the full phylogenetic tree, we estimated a mean mutation rate of ~25 substitutions per genome per year. For a virus with a genome of ~30kbp, this roughly translates to a mutation rate of 0.0008 sub/site/year.<br><br>To put this into context, SARS-CoV-2 and HIV are both RNA viruses. That means both lack the proof reading ability when copying their genetic material. However, HIV evolves at a much faster rate of 0.004 sub/site/year or ~16x faster than SARS-COV-2. 
+Based on the full phylogenetic tree, we estimated a mean mutation rate of ~25 substitutions per genome per year. For a virus with a genome of ~30kbp, this roughly translates to a mutation rate of 0.0008 sub/site/year.
+<br><br>
+To put this into context, SARS-CoV-2 and HIV are both RNA viruses. That means both lack the proof reading ability when copying their genetic material. However, HIV evolves at a much faster rate of 0.004 sub/site/year or ~16x faster than SARS-COV-2. 
 
 <!-- This is left-side text -->
 # [Scientific credit](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=submitting_lab&d=tree&p=full)
