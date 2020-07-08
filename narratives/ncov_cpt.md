@@ -19,15 +19,8 @@ government and university laboratories in South Africa.
 	
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-
-The network's is guided by six key principles:
-<br><br>
-* Sequence close to the site of sample collection.
-* Being platform agnostic.
-* Supporting local relevant public health priorities.
-* Rapid and responsible opend data sharing.
-* Creating a bioinformatics system to process and analyze data locally.
-* Producing timely reports for poblicy makers to inform the public health response.
+![alt text](https://cache.marriott.com/marriottassets/destinations/hero/cape-town-destination.jpg "Logo Title Text 1")
+The City of Cape Town is the main economic and population centre in the Western Cape Province and a major tourist destination in South Africa.
 
 ```
 # [The Epidemic in South Africa has been very heterogeneous](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=clade_membership&d=map&p=full&transmissions=hide)
@@ -42,18 +35,13 @@ The South African epidemic has been very heterogeneous. For example, the first c
 
 # [SARS-CoV-2 in Cape Town ](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=clade_membership&d=tree,map&l=radial&p=grid&transmissions=hide)
 Our phylogenetic reconstruction contains 46 whole genomes sampled during the first month of the epidemic in Cape Town, South Africa. This roughly correlates to 10% of the diagnosed cases over the same time period. By analysing these genotypes against a backdrop of SARS-CoV-2 genotypes from around the world we can gain unique insights into the epidemic.
-
-<!-- This is right-side text -->
-```auspiceMainDisplayMarkdown
-
+<br><br>
 Some of the questions we are interested in are: 
 <br><br>
 * Is the epidemic in Cape Town caused by a single introductory event or was it seeded by multiple introductions? We hypothesis that the epidemic in Cape Town was seeded by multiple introductions of SARS-CoV-2.
 * What is the source of the introduction(s)? We hypothesis that most of the viral introductions occured from European sources, given the high travel volumes between Cape Town and the European continent, particularly in the months of February and March.
 * What is the timing of these viral introductions? Given the diangostic testing data we hypothesis that all the introductions occured between mid February and mid March, prior to travel restrictions. 
 * Do we observe any unqiue mutations common to the viral population in Cape Town? 
-
-```
 
 # [Early genotypes from Cape Town ](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=clade_membership&d=tree,map&f_author=Susan%20Engelbrecht%20et%20al&l=radial&p=grid)
 The phylogenetic reconstruction suggest at least nine introductions of SARS-CoV-2 into Cape Town. Accurate inference is hampered by the highly conserved nature of this virus. Given that only 10% of diagnosed cases were genotyped and analysed, the true number of viral introductions into Cape Town is most definitely much higher.<br><br>The observed genetic variants of SARS-CoV-2 in Cape Town can be divided into three main clades of the novel coronavirus: 19A, 20A and 20B.  
