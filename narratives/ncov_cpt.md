@@ -55,10 +55,10 @@ Three isolates (Tygerberg 4, 6 & 31) contained mutations more similar to the Asi
 # [Introduction of Clade-20A](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?d=tree,map&f_author=Susan%20Engelbrecht%20et%20al&p=full)
 The remainder of the Cape Town sequences were classified into clades 20A and 20B of SARS-CoV-2. The 20A-20C clades of SARS-CoV-2 is mainly associated with infections outside of Asia.<br><br>The 20A clade contains 28 genotypes from Cape Town. The result of two unique introductions. The reconstruction suggest transmission of a Spanish variant (A20268G) to the UK and onwards to Cape Town giving rise to the genetic profile of Tygerberg 2 & 3. Contact tracing confirms these two individuals to be contacts of a traveler who recently returned from the United Kingdom.
 
-# [Clustered  Outbreak of 20A in Cape Town]()
+# [Clustered  Outbreak of 20A in Cape Town](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?label=clade:A24862G&p=grid&transmissions=hide)
 The second 20A introduction led to a large clustered outbreak of SARS-CoV-2 in a busy supermarket in Cape Town. Contact tracing suggest Tygerberg 5 to be infected with a Dutch variant of SARS-CoV-2 while in the Netherlands.<br><br>The Dutch variant is defined by the common mutation A24862G relative to the Wuhan reference strain. From the Netherlands, this variant spread to several countries (e.g. New Zealand, Colombia & Austria). This cluster also contained another sequences from South Africa (R07601) sampled in the northern province of Limpopo.
 
-# [Mutation A5209G]()
+# [Mutation A5209G](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=gt-nuc_5209&l=radial&p=grid&transmissions=hide)
 Following the introduction of the Dutch variant into Cape Town, the virus further diversified with the accumulation of the mutation A5209G before causing a large out in the supermarket.<br><br>This variant is only observed in the supermarket outbreak in Cape Town and no where else on earth. Keeping tack of mutations such as this one, will allow us to understand how the virus spread between different locations within the city, the surrounding country side and throughout the Republic. 
 
 # [Introduction of 20B](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?d=tree,map&f_author=Susan%20Engelbrecht%20et%20al&p=full)
