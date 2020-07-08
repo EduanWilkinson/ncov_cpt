@@ -1,8 +1,8 @@
 ---
-title: Mol Epi of SARS-CoV-2 in Cape Town, South Africa
+title: "Mol Epi of SARS-CoV-2 in Cape Town, South Africa"
 authors: "Eduan Wilkinson, Houriiyah Tegally, Tulio de Oliveira, Wolfgang Preiser, Gert Van Zyl & Susan Engelbrecht."
 authorLinks: "https://www.krisp.org.za/ngs-sa/"
-affiliations: "Division of Medical Virology, Department of Pathology, Faculty of Health and Medical Science, Stellenbosch University, Tygerberg, South Africa.
+affiliations: "Division of Medical Virology, Department of Pathology, Faculty of Health and Medical Science, Stellenbosch University, Tygerberg, South Africa."
 date: "July, 3 2020"
 dataset: "https://nextstrain.org/community/EduanWilkinson/ncov_cpt"
 abstract: "The Network for Genomics Surveillance in South Africa (NGS-SA) presents a molecular epidemiological study of the first 46 SARS-CoV-2 whole genomes from Cape Town, South Africa, during the first month of the epidemic."
