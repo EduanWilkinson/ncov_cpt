@@ -5,14 +5,15 @@ authorLinks: "https://www.krisp.org.za/ngs-sa/"
 affiliations: "Division of Medical Virology, Department of Pathology, Faculty of Health and Medical Science, Stellenbosch University, Tygerberg, South Africa."
 date: "July, 8 2020"
 dataset: "https://nextstrain.org/community/EduanWilkinson/ncov_cpt"
-abstract: "The Network for Genomics Surveillance in South Africa (NGS-SA) presents a molecular epidemiological study of the first 46 SARS-CoV-2 whole genomes from Cape Town, South Africa, during the first month of the epidemic."
+abstract: "The Network for Genomics Surveillance in South Africa (NGS-SA) presents a molecular epidemiological study of the first 46 SARS-CoV-2 whole genomes from Cape Town, South Africa. These genotypes were all sampled in the first month of the epidemic in Cape Town and roughly represent ~10% of the diagnosed cases over the same time period."
 ---
 
 # [Executive summary](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=clade_membership&d=map&p=full&transmissions=hide)
 The emergence of a novel coronavirus, SARS-CoV-2, in December 2019, progressed to become a global pandemic over a few months, which reached South Africa at the beginning of March 2020.
 <br><br>
-The first reported case was in the KwaZulu-Natal province on the east coast of the country. The case was associated with a returning traveler from Europe. Within days similar cases of SARS-CoV-2 were being documented in Gauteng and the Western Cape Province.
-<br><br>This report focuses on the early epidemic in Cape Town, which is the main economic and population hub in the Western Cape (WC) province of South Africa. To this end we have excluded sequences from KRISP - which was the focus of the [first NGS-SA report](https://nextstrain.org/groups/ngs-sa/narratives/COVID19-KZN-27June20).
+The first reported case was in the KwaZulu-Natal (KZN) province on the east coast of the country. The case was associated with a returning traveler from Europe. Within days similar cases of SARS-CoV-2 were being documented in Gauteng (GP) and the Western Cape (WC) provinces.
+<br><br>
+This report focuses on the early epidemic in Cape Town, which is the main economic and population hub in the WC province of South Africa. To this end we have excluded sequences from KRISP - which was the focus of the [first NGS-SA report](https://nextstrain.org/groups/ngs-sa/narratives/COVID19-KZN-27June20).
 <br><br>
 The [Network for Genomics Surveillance in South Africa (NGS-SA)](https://www.krisp.org.za/ngs-sa/) was establish to investigate the genetic diversity of SARS-CoV-2 within the Republic. NGS-SA is a collaborative network of ten 
 government and university laboratories in South Africa.  
@@ -20,17 +21,17 @@ government and university laboratories in South Africa.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 ![alt text](https://cache.marriott.com/marriottassets/destinations/hero/cape-town-destination.jpg "Logo Title Text 1")
-The City of Cape Town is the main economic and population centre in the Western Cape Province and a major tourist destination in South Africa.
+The City of Cape Town is the main economic and population centre in the Western Cape province and a major tourist destination in South Africa.
 
 ```
 # [The epidemic in South Africa has been very heterogeneous](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=clade_membership&d=map&p=full&transmissions=hide)
-The South African epidemic has been very heterogeneous. For example, the first cases and deaths occurred in KwaZulu-Natal (KZN) and Gauteng (GP) provinces.
+The South African epidemic has been very heterogeneous. For example, the first cases and deaths occurred in KZN and GP.
 <br><br>
-GP province comprises the largest metropolitan area in the country, Johannesburg. The majority of initial cases were in middle aged and well-off individuals who had returned from overseas travel. Infections were concentrated in the suburb of Sandton in Johannesburg and led to a very small number of deaths.
+GP comprises the largest metropolitan area in the country, Johannesburg. The majority of initial cases were in middle aged and well-off individuals who had returned from overseas travel. Infections were concentrated in the suburb of Sandton in Johannesburg and led to a very small number of deaths.
 <br><br>
-A large nosocomial outbreak in a hospital in Durban resulted in KZN having the highest number of deaths until the Western Cape (WC) province overtook it on 21 April 2020.
+A large nosocomial outbreak in a hospital in Durban resulted in KZN having the highest number of deaths until the WC province overtook it on 21 April 2020.
 <br><br>
-Subsequently, however, the epidemic expanded the fastest in the WC province, especially in Cape Town. At the time of writing this report, this province has over 60% of cases and deaths in South Africa.
+Subsequently, however, the epidemic expanded the fastest in the WC, especially in Cape Town. At the time of writing this report, this province has over 60% of cases and deaths in South Africa.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -45,18 +46,18 @@ Some of the questions we are interested in are:
 <br><br>
 * Is the epidemic in Cape Town the result of a single introductory event or was it seeded by multiple introductions? We hypothesis that the epidemic in Cape Town was seeded by multiple introductions of SARS-CoV-2.
 * What is the source of the introduction(s)? We hypothesis that most of the viral introductions occurred from European sources, given the high travel volumes between Cape Town and the European continent, particularly in the months of February and March.
-* •	What is the timing of these viral introductions? Given the diagnostic testing data we hypothesis that all the introductions occured between mid February and mid March, prior to travel restrictions being imposed.
+* What is the timing of these viral introductions? Given the diagnostic testing data we hypothesis that all the introductions occured between mid February and mid March, prior to travel restrictions being imposed.
 * Do we observe any unique mutations common to the viral population in Cape Town? 
 
 # [Early genotypes from Cape Town ](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=clade_membership&d=tree,map&f_author=Susan%20Engelbrecht%20et%20al&l=radial&p=grid)
-The phylogenetic reconstruction suggests at least nine introductions of SARS-CoV-2 into Cape Town. Accurate inference is hampered by the highly conserved nature of this virus. Given that only 10% of diagnosed cases were genotyped and analyzed, the true number of viral introductions into Cape Town is most definitely much higher.
+The phylogenetic reconstruction suggests at least nine introductions of SARS-CoV-2 into Cape Town. Accurate inference is hampered by the highly conserved nature of this virus. Given that only 10% of diagnosed cases were genotyped and analyzed, the true number of viral introductions into Cape Town is definitely likely to be even higher.
 <br><br>
-The observed genetic variants of SARS-CoV-2 in Cape Town can be divided into three main clades of the novel coronavirus: 19A, 20A and 20B.  
+The observed genetic variants of SARS-CoV-2 in Cape Town can be divided into three main clades of the novel coronavirus: 19A, 20A and 20B according to the in-house clade classification system used by Nextstrain [Hodcroft et al., 2020](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming).  
 
 # [Timing of the introductions](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?d=tree,map&f_author=Susan%20Engelbrecht%20et%20al&l=radial&p=grid)
 Based on the molecular clock analyses we can confirm that all the introductions into Cape Town occurred between the last week of February and in the first two weeks of March 2020.
 <br><br>
-February and March is high tourist season in Cape Town with hundereds of thousands of arrivals in the two months. Following the rising number of cases being diagnosed in the Republic, the national government quickly enforced a lockdown. This basically brought international travel to and from South Africa to a halt. We therefore do not expect that any subsequent introductions into the Cape Metro area have taken place after 15 March 2020.
+February and March is high tourist season in Cape Town with hundereds of thousands of arrivals in the two months. Following the rising number of cases being diagnosed in the Republic, the national government quickly enforced a lockdown. This basically brought international travel to and from South Africa to a halt and limited movement between provinces. We therefore do not expect  any subsequent introductions into the Cape Metro area after 15 March 2020.
 <br><br>
 As travel restrictions are eased, we will keep a close eye on the possible emergence of new variants which may be the result of new introductions.
 
@@ -65,7 +66,9 @@ Three isolates (Tygerberg 4, 6 & 31) contained mutations more similar to the Asi
 <br><br>
 The genetic sequence of Tygerberg 4 does not differ from the Wuhan-Hu-1 reference strain. This was the first genome sequence of SARS-CoV-2 to be published in early January 2020 and is the genome against which all sequences are measured. Contact tracing points to a recent travel history to the United Kingdom for the individual from whom this virus genotype was obtained. This suggest transmission from China to the UK and onwards to Cape Town.
 <br><br>
-With regards to Tygerberg 6 and 31 these two genotypes share two common mutations (G26144T and C14805T) relative to the Wuhan-Hu-1 reference stain. For Tygerberg 6, the molecular clock and ancestral state reconstruction suggest spread from China to the United Kingdom and onwards to Cape Town. Along the chain of transmission additional mutation events occurred leading to the genetic profile we observe in Tygerberg 6.
+With regards to Tygerberg 6 and 31, these two genotypes share two common mutations (G26144T and C14805T) in relation to the Wuhan-Hu-1 reference stain
+<br><br>
+For Tygerberg 6, the molecular clock and ancestral state reconstruction suggest spread from China to the United Kingdom and onwards to Cape Town. Along the chain of transmission additional mutation events occurred leading to the genetic profile we observe in Tygerberg 6.
 <br><br>
 For Tygerberg 31, the most likely route of transmission for this genetic variant goes from China to Australia, the United States (defined by the T17247C mutation) and onwards to Cape Town. 
 
@@ -93,22 +96,22 @@ Fifteen of the Cape Town sequences clustered in clade 20B. We believe these fift
 <br><br>
 Tygerberg 30 and 32 appear to be due to a unique introduction of a UK variant (defined by the common mutation G10097A).
 <br><br>
-The remaining eleven Tygerberg sequences cluster intermittently in a clade rooted in Italy. The mutation profile of these eleven sequences are so close to one another that it is difficult to distinguish whether they are the result of a single introduction or due to multiple introductions into Cape Town. Given their close genetic similarity we chose to define it as a single introduction.   
+The remaining eleven Tygerberg sequences cluster intermittently in a clade rooted in Italy. The mutation profile of these eleven sequences are so close to one another that it is difficult to distinguish whether they are the result of a single introduction or due to multiple introductions into Cape Town. Given their close genetic similarity we classified this as a single introduction. 
 
 # [Evolutionary rate of SARS-CoV-2](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?d=tree&f_author=Susan%20Engelbrecht%20et%20al&l=clock&p=full)
 Based on the full phylogenetic tree, we estimated a mean mutation rate of ~25 substitutions per genome per year. For a virus with a genome of ~30kbp, this roughly translates to a mutation rate of 0.0008 sub/site/year.
 <br><br>
-To put this into context, SARS-CoV-2 and HIV are both RNA viruses. That means both lack the proof-reading ability when copying their genetic material. However, HIV evolves at a much faster rate of 0.004 sub/site/year or ~16x faster than SARS-COV-2. 
+To put this into context, SARS-CoV-2 and HIV are both RNA viruses. However, HIV evolves at a much faster rate of 0.004 sub/site/year or ~16x faster than SARS-COV-2. 
 
 <!-- This is left-side text -->
 # [Scientific credit](https://nextstrain.org/community/EduanWilkinson/ncov_cpt?c=submitting_lab&d=tree&p=full)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+The data were shared via [GISAID](https://gisaid.org).
+We gratefully acknowledge all contributions to the sequencing and open sharing of SARS-CoV-2 sequences, that made the work possible.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+SARS-CoV-2 genomes used in this analysis were generously shared by scientists at these contributing laboratories:
 
 * African Centre of Excellence for Genomics of Infectious Diseases (ACEGID), Redeemer's University, Ede, Osun State, Nigeria
 * Albertsen lab, Department of Chemistry and Bioscience, Aalborg University, Denmark
@@ -151,7 +154,6 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 * Department of Infection, Immunity and Cardiovascular Disease, The Florey Institute, The Medical School, University of Sheffield
 * Department of Laboratory Medicine, Lin-Kou Chang Gung Memorial Hospital, Taoyuan, Taiwan
 * Department of Laboratory Medicine, Lin-Kou Chang Gung Memorial Hospital, Taoyuan, Taiwan.
-* Department of Medical Microbiology
 * Department of Medical Microbiology, Faculty of Medicine, University of Malaya
 * Department of Microbiology, Faculty of Medicine, Chinese University of Hong Kong, Hong Kong SAR, China
 * Department of Microbiology, Gandhi Medical College and Hospital, Secendrabad, Hyderabad, India
